@@ -13,5 +13,5 @@ def Ceasar(k,Plaintext):
 
 k = 19
 Plaintext = 'DoVanVu'
-
+    
 print (Ceasar(k,Plaintext))
